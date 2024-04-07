@@ -1,0 +1,27 @@
+{
+  "deflayout": {
+    "login": "Log in",
+    "signup": "Singup"
+  },
+  "portallayout": {
+    "profile": "Profile",
+    "visitor-entry": "Visitor Signup",
+    "signoff":"Sign Off"
+  },
+  "login-form": {
+    "title": "Login",
+    "name": "Name",
+    "password": "Password",
+    "button":"Login"
+  },
+  "signup-form": {
+    "title": "Signup",
+    "name": "Name",
+    "run": "Run",
+    "email": "Email",
+    "phone": "Phone",
+    "#num": "House/apartment number",
+    "password": "Password",
+    "button":"Signup"
+  }
+  }

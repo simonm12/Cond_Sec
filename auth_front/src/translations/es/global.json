@@ -1,0 +1,27 @@
+{
+  "deflayout": {
+    "login": "Inicio Sesión",
+    "signup": "Registro"
+  },
+  "portallayout": {
+    "profile": "Perfil",
+    "visitor-entry": "Registro Visitas",
+    "signoff":"Cierre Sesión"
+  },
+  "login-form": {
+    "title": "Inicio Sesión",
+    "name": "Nombre Completo",
+    "password": "Contraseña",
+    "button":"Iniciar Sesión"
+  },
+  "signup-form": {
+    "title": "Registro",
+    "name": "Nombre Completo",
+    "run": "Rut",
+    "email": "Email",
+    "phone": "Telefono",
+    "#num": "Numero de casa/departamento",
+    "password": "Contraseña",
+    "button":"Registrarse"
+  }
+  }
